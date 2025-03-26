@@ -6,7 +6,7 @@ subtitle: <a href='#'>Centro Andaluz de Biología Molecular y Medicina Regenerat
 
 profile:
   align: right
-  image: foto_perfil.jpg
+  image: foto_perfil.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>CSIC-CABIMER</p>
