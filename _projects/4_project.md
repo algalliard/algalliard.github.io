@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Trasfondo genético de la enfermedad de Ménière
+description: Participación en proyectos de investigación para la búsqueda de marcadores genéticos relacionados con la aparición y evolución de la enfermedad de Ménière.
+img: assets/img/inner_ear.jpg
 importance: 3
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
