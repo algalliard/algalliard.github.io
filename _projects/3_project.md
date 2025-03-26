@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: UNITI Unification of treatments and Interventions for Tinnitus patients
+description: Participación en el Proyecto Europeo UNITI.
+img: assets/img/UNITI.jpg
+redirect: https://uniti.tinnitusresearch.net/
 importance: 3
 category: work
 ---
