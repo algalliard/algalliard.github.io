@@ -8,74 +8,37 @@ importance: 2
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+El objetivo general de UNITI es desarrollar un modelo computacional predictivo basado en datos longitudinales existentes para abordar la cuestión del enfoque terapéutico óptimo para cada paciente, basándose en parámetros específicos. Se analizaron datos clínicos, epidemiológicos, médicos, genéticos y audiológicos, incluyendo señales que reflejan la comunicación oído-cerebro, a partir de bases de datos clínicas existentes. Se extrajeron factores predictivos para diferentes grupos de pacientes y se evaluaron su relevancia pronóstica en un ensayo clínico aleatorizado y controlado) en el que diferentes grupos de pacientes se sometieron a una combinación de terapias dirigidas al sistema auditivo y al sistema nervioso central.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/uniti_logo.png" title="logo de UNITI" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/UNITI_results.png" title="diagrama de resultados de UNITI" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Logo del Proyecto Europeo UNITI. Diferentes grupos de trabajo y objetivos dentro del proyecto.
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Durante la realización de este proyecto, participé en el grupo de trabajo de Genética y colaboré con el grupo de análisis estadístico. Se realizaron dos Hackathon para el análisis de datos derivados de este proyecto a lo largo del mismo, siendo yo el _host_ de la segunda Hackathon del UNITI en la Facultad de Medicina de la Universidad de Granada.
 
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/UNITI_genetics.jpg" title="Grupo de Otoneurologia de Granada en 2020" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/UNITI_hackathon.jpg" title="Segunda Hackathon realizada en Granada" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/UNITI_sap.png" title="Articulo sobre el analisis de datos del proyecto" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
-```
+<div class="caption">
+    A la izquierda, el grupo de Otoneurología participante en el proyecto UNITI en 2020. En el centro, la Segunda Hackathon realizada en la Facultad de Medicina de Granada en 2022. A la izquierda, resultados del análisis de datos masivo del proyecto.
+</div>
 
-{% endraw %}
+El trabajo finalizó en Septiembre de 2023 con un estudio estadístico singular para la elaboración de una herramienta predictiva en el tratamiento combinado de pacientes de acúfenos a nivel europeo. 
+
+
