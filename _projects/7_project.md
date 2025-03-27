@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
+title: Estudio permanente de funcionamiento operativo de un gato en particular
+description: También conocido como Mochi
+img: assets/img/Mochi1.jpg
 importance: 2
 category: fun
-related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.

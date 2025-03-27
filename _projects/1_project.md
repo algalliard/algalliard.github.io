@@ -2,7 +2,7 @@
 layout: page
 title: Programa MOMENTUM - CSIC
 description: Proyecto Momentum - Identificación de determinantes genéticos y epigenéticos en la resistencia al estrés epigenético en cáncer.
-img: assets/img/MOMENTUM.jpg
+img: assets/img/Momentum-sinfondo.png
 importance: 1
 category: work
 related_publications: true
@@ -34,5 +34,6 @@ Este programa está financiado por [Red.Es](https://www.red.es/es/sobre-nosotros
     Logos de los participantes y financiadores del Programa Momentum. 
 </div>
 
+En el marco de este proyecto, yo participo en el proyecto de investigación **Identificación de determinantes genéticos y epigenéticos en la resistencia al estrés epigenético en cáncer**, en el Centro Andaluz de Biología Molecular y Medicina Regenerativa (CABIMER), en Sevilla, bajo la supervisión de José Carlos Reyes (CSIC-CABIMER) y Juan Antonio Nepomuceno (US).
 
-
+Más información en próximas actualizaciones.
