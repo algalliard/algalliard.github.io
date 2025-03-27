@@ -37,3 +37,12 @@ Este programa está financiado por [Red.Es](https://www.red.es/es/sobre-nosotros
 En el marco de este proyecto, yo participo en el proyecto de investigación **Identificación de determinantes genéticos y epigenéticos en la resistencia al estrés epigenético en cáncer**, en el Centro Andaluz de Biología Molecular y Medicina Regenerativa (CABIMER), en Sevilla, bajo la supervisión de José Carlos Reyes (CSIC-CABIMER) y Juan Antonio Nepomuceno (US).
 
 Más información en próximas actualizaciones.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/cabimer.png" title="logo de cabimer" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Logo de CABIMER.
+</div>
