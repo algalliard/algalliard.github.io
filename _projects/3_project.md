@@ -4,6 +4,7 @@ title: UNITI Unification of treatments and Interventions for Tinnitus patients
 description: Participación en el Proyecto Europeo UNITI.
 img: assets/img/uniti_logo.png
 importance: 2
+related_publications: true
 category: work
 ---
 

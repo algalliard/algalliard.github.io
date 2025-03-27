@@ -12,7 +12,7 @@ En actualización...
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://youtu.be/FyoeEp_TvLQ" allowfullscreen></iframe>
+            {% include video.liquid path="https://youtu.be/FyoeEp_TvLQ" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
 </div>
