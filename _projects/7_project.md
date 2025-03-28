@@ -4,7 +4,7 @@ title: Estudio permanente de funcionamiento operativo de un gato en particular
 description: También conocido como Mochi
 img: assets/img/Mochi1.jpg
 importance: 2
-category: fun
+category: Otros
 ---
 
 Esto es una página dedicada a un proyecto que llevo cuidando ya 5 años: **MOCHI**.

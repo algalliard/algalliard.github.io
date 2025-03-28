@@ -5,7 +5,7 @@ description: Participación en el Proyecto Europeo UNITI.
 img: assets/img/uniti_logo.png
 importance: 2
 related_publications: true
-category: work
+category: Investigación
 ---
 
 El objetivo general de UNITI es desarrollar un modelo computacional predictivo basado en datos longitudinales existentes para abordar la cuestión del enfoque terapéutico óptimo para cada paciente, basándose en parámetros específicos. Se analizaron datos clínicos, epidemiológicos, médicos, genéticos y audiológicos, incluyendo señales que reflejan la comunicación oído-cerebro, a partir de bases de datos clínicas existentes. Se extrajeron factores predictivos para diferentes grupos de pacientes y se evaluaron su relevancia pronóstica en un ensayo clínico aleatorizado y controlado) en el que diferentes grupos de pacientes se sometieron a una combinación de terapias dirigidas al sistema auditivo y al sistema nervioso central {% cite schoisswohl2024single %}.

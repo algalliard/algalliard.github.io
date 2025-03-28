@@ -5,7 +5,7 @@ permalink: /projects/
 description: Lista de proyectos científicos liderados y en los que he participado.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Investigación, Otros]
 horizontal: false
 ---
 

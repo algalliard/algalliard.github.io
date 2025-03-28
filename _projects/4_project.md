@@ -4,7 +4,7 @@ title: Trasfondo genético de la enfermedad de Ménière
 description: Participación en proyectos de investigación para la búsqueda de marcadores genéticos relacionados con la aparición y evolución de la enfermedad de Ménière.
 img: assets/img/inner-ear.png
 importance: 3
-category: work
+category: Investigación
 ---
 
 En actualización...

@@ -4,7 +4,7 @@ title: Programa MOMENTUM - CSIC
 description: Proyecto Momentum - Identificación de determinantes genéticos y epigenéticos en la resistencia al estrés epigenético en cáncer.
 img: assets/img/Momentum-sinfondo.png
 importance: 1
-category: work
+category: Investigación
 related_publications: true
 ---
 
