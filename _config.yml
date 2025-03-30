@@ -17,7 +17,7 @@ keywords: bioinformatics, genetics, momentum, academic-website, portfolio-websit
 lang: es # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🖲️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://algalliard.github.io # the base hostname & protocol for your site
+url: https://www.algalliard.github.io # the base hostname & protocol for your site
 baseurl: /algalliard
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -196,6 +196,7 @@ exclude:
   - _projects/2_project.md
   - _projects/5_project.md
   - _projects/6_project.md
+  - _projects/7_project.md
   - _projects/8_project.md
   - _projects/9_project.md
 keep_files:
