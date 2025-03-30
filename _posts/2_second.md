@@ -1,14 +1,11 @@
 ---
 layout: post
 title: A simple test post
-date: 2025-03-25 12:40:16
+date: 2025-03-30 12:45:40
 description: Post test
 tags: Genética Código Bioinformática Estadística Datos
 categories: MOMENTUM
 ---
-Test
 
+Test 2
 
-Kick-start Momentum en Madrid, 26 de Febrero de 2025.
-
-{% twitter https://twitter.com/CSIC/status/1894728175508140487 %}
