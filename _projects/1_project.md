@@ -20,7 +20,7 @@ Programa Momentum: una sólida y ambiciosa propuesta del CSIC para posicionar a 
     Foto grupal de los contratados Momentum asistentes a la sesión de partida del Programa Momentum en Madrid, 26 de Febrero de 2025.
 </div>
 
-Este programa está financiado por [Red.Es](https://www.red.es/es/sobre-nosotros/que-hacemos) y por el [PRTR](https://planderecuperacion.gob.es/plan-de-recuperacion-para-europa) para la gestión de fondos NextGeneration de la UE.
+Este programa está financiado por [Red.Es](https://www.red.es/es/sobre-nosotros/que-hacemos) y por el [PRTR](https://momentum.csic.es/programa-momentum/) para la gestión de fondos NextGeneration de la UE.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">

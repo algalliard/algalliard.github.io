@@ -191,7 +191,6 @@ You can also:
 - delete [\_includes/latest_posts.liquid](_includes/latest_posts.liquid)
 - delete [\_includes/related_posts.liquid](_includes/related_posts.liquid)
 - delete [\_layouts/archive.liquid](_layouts/archive.liquid) (unless you have a custom collection that uses it)
-- delete [\_plugins/external-posts.rb](_plugins/external-posts.rb)
 - remove the `jekyll-archives-v2` gem from the [Gemfile](Gemfile) and the `plugins` section in [\_config.yml](_config.yml) (unless you have a custom collection that uses it)
 - remove the `classifier-reborn` gem from the [Gemfile](Gemfile)
 
