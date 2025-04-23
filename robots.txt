@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://algalliard.github.io//sitemap.xml
+Sitemap: https://algalliard.github.io/sitemap.xml
