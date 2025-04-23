@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://algalliard.github.io/sitemap.xml
