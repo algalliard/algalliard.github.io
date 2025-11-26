@@ -37,7 +37,62 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-reunión-programa-momentum-26-de-febrero-de-2025",
+        },{id: "post-retreat-cabimer-2025",
+        
+          title: "Retreat CABIMER 2025",
+        
+        description: "Post sobre el Retreat de CABIMER 2025",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/RetreatCABIMER/";
+          
+        },
+      },{id: "post-gala-momentum-octubre-2025",
+        
+          title: "Gala Momentum Octubre 2025",
+        
+        description: "Post sobre la Gala Momentum en Madrid 2025",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/GalaMomentum/";
+          
+        },
+      },{id: "post-workshop-conexión-genoma-en-cabimer-2025",
+        
+          title: "Workshop Conexión Genoma en CABIMER 2025",
+        
+        description: "Post sobre el workshop de Conexión Genoma en CABIMER. Octubre de 2025.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/WorkshopCGenoma/";
+          
+        },
+      },{id: "post-conexión-bcb",
+        
+          title: "Conexión BCB",
+        
+        description: "Post sobre el evento oficial de Generación D en Madrid",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/GeneracionD/";
+          
+        },
+      },{id: "post-conexión-bcb",
+        
+          title: "Conexión BCB",
+        
+        description: "Post sobre el meeting y workshop de la Conexión BCB en Madrid",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/ConexionBCB/";
+          
+        },
+      },{id: "post-reunión-programa-momentum-26-de-febrero-de-2025",
         
           title: "Reunión Programa Momentum 26 de Febrero de 2025",
         
