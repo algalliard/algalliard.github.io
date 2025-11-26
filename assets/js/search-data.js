@@ -70,9 +70,9 @@ ninja.data = [{
             window.location.href = "/blog/2025/WorkshopCGenoma/";
           
         },
-      },{id: "post-conexión-bcb",
+      },{id: "post-evento-oficial-de-generación-d-en-madrid-2025",
         
-          title: "Conexión BCB",
+          title: "Evento oficial de Generación D en Madrid 2025",
         
         description: "Post sobre el evento oficial de Generación D en Madrid",
         section: "Posts",
@@ -81,9 +81,9 @@ ninja.data = [{
             window.location.href = "/blog/2025/GeneracionD/";
           
         },
-      },{id: "post-conexión-bcb",
+      },{id: "post-2º-workshop-conexión-bcb-2025",
         
-          title: "Conexión BCB",
+          title: "2º Workshop Conexión BCB 2025",
         
         description: "Post sobre el meeting y workshop de la Conexión BCB en Madrid",
         section: "Posts",
