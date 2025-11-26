@@ -21,5 +21,3 @@ Durante el workshop se presentaron avances en análisis genómico, herramientas 
 <div class="caption">
   Workshop Conexión Genoma celebrado en CABIMER, octubre de 2025.
 </div>
-
-

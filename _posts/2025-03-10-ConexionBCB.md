@@ -21,6 +21,3 @@ El evento fomentó la colaboración entre grupos de investigación, el intercamb
 <div class="caption">
   Segunda Asamblea Conexión BCB en Madrid, Marzo de 2025.
 </div>
-
-
-

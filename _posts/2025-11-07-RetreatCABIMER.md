@@ -19,5 +19,3 @@ Durante el retiro, se presentaron los últimos resultados de investigación en b
 <div class="caption">
   Foto del Retreat CABIMER 2025 celebrado en Sevilla.
 </div>
-
-
