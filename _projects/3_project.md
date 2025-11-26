@@ -39,7 +39,6 @@ Durante la realización de este proyecto, participé en el grupo de trabajo de G
     A la izquierda, el grupo de Otoneurología participante en el proyecto UNITI en 2020. En el centro, la Segunda Hackathon realizada en la Facultad de Medicina de Granada en 2022. A la izquierda, resultados del análisis de datos masivo del proyecto.
 </div>
 
-El trabajo finalizó en Septiembre de 2023 con un estudio estadístico singular para la elaboración de una herramienta predictiva en el tratamiento combinado de pacientes de acúfenos a nivel europeo {% cite simoes2023statistical %} . 
+El trabajo finalizó en Septiembre de 2023 con un estudio estadístico singular para la elaboración de una herramienta predictiva en el tratamiento combinado de pacientes de acúfenos a nivel europeo {% cite simoes2023statistical %} .
 
-Más información acerca de este proyecto en su [web](https://uniti.tinnitusresearch.net/). 
-
+Más información acerca de este proyecto en su [web](https://uniti.tinnitusresearch.net/).

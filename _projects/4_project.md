@@ -17,5 +17,5 @@ En actualización...
     </div>
 </div>
 <div class="caption">
-    Vídeo de presentación de resultados relacionados con la línea de investigación de Enfermedad de Ménière en las Jornadas de la Asociación de Pacientes de Méniére en Córdoba, 2022.
+  Vídeo de presentación de resultados relacionados con la línea de investigación de Enfermedad de Ménière en las Jornadas de la Asociación de Pacientes de Méniére en Córdoba, 2022.
 </div>
