@@ -10,7 +10,6 @@ related_publications: true
 
 Programa Momentum: una sólida y ambiciosa propuesta del CSIC para posicionar a la institución y a España como actores líderes en el ámbito de las competencias digitales avanzadas. Consciente de los desafíos y oportunidades que plantea la era digital, este programa se concibe como un motor de transformación que tiene como objetivo principal atraer, formar y retener talento altamente cualificado en áreas estratégicas de la ciencia y la tecnología, fortaleciendo la capacidad del CSIC y España de investigación, innovación, emprendimiento y colaboración público-privada, contribuyendo al progreso social y económico de la sociedad.
 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/momentum_contratados.jpg" title="foto grupal de los contratados Momentum en Madrid 26 de Febrero de 2025" class="img-fluid rounded z-depth-1" %}

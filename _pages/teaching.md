@@ -7,8 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-
-
 <div class="row justify-content-sm-center">
   <div class="col-sm-5 mt-3 mt-md-0">
     {% include video.liquid path="https://www.youtube.com/embed/FyoeEp_TvLQ" class="img-fluid rounded z-depth-1" %}

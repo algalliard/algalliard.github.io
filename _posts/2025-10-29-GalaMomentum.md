@@ -8,6 +8,3 @@ categories: MOMENTUM
 ---
 
 {% twitter https://x.com/DPE_CSIC/status/1983111505634623536 %}
-
-
-{% youtube https://t.co/MgQXaAsQvw %}

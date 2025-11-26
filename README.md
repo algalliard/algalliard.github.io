@@ -17,19 +17,19 @@ I am a bioinformatician and geneticist specialized in the genetic architecture o
 
 My work spans multiple areas of human genetics and genomics:
 
-- **Meniere's Disease**: Identified rare variants in genes such as *OTOG*, *GJD3*, and *TECTA* associated with familial and sporadic forms
-- **Tinnitus Genetics**: Characterized coding and non-coding rare variants in synaptic and neuronal genes (*ANK2*) contributing to severe tinnitus
+- **Meniere's Disease**: Identified rare variants in genes such as _OTOG_, _GJD3_, and _TECTA_ associated with familial and sporadic forms
+- **Tinnitus Genetics**: Characterized coding and non-coding rare variants in synaptic and neuronal genes (_ANK2_) contributing to severe tinnitus
 - **Clinical Trials**: Statistical analysis and coordination for the UNITI-RCT international trial on tinnitus treatments
 
 ## Publications
 
-My research has been published in high-impact scientific journals including *Nature Communications*, *Genome Medicine*, *npJ Genomic Medicine*, *Human Genetics*, and *EBioMedicine*. For a complete list of publications, please visit the [Publications section](https://algalliard.github.io/publications/) of my website.
+My research has been published in high-impact scientific journals including _Nature Communications_, _Genome Medicine_, _npJ Genomic Medicine_, _Human Genetics_, and _EBioMedicine_. For a complete list of publications, please visit the [Publications section](https://algalliard.github.io/publications/) of my website.
 
 ## Current Position
 
 **MOMENTUM Programme Fellow**  
 Centro Andaluz de Biología Molecular y Medicina Regenerativa (CABIMER-CSIC)  
-Project: *Identification of genetic and epigenetic determinants in epigenetic stress resistance in cancer*  
+Project: _Identification of genetic and epigenetic determinants in epigenetic stress resistance in cancer_  
 Supervisors: Dr. José Carlos Reyes (CSIC-CABIMER) & Dr. Juan Antonio Nepomuceno (Universidad de Sevilla)
 
 The MOMENTUM Programme is funded by [Red.Es](https://www.red.es/) and the [PRTR](https://momentum.csic.es/programa-momentum/) through NextGeneration EU funds.
@@ -71,5 +71,4 @@ The theme is available as open source under the terms of the [MIT License](https
 
 Originally, **al-folio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](https://liabogoev.com) and under the MIT license). Since then, it got a full re-write of the styles and many additional cool features.
 
-<p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p> 
-
+<p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
