@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conexión BCB
+title: Evento oficial de Generación D en Madrid 2025
 date: 2025-04-26 21:00:00
 description: Post sobre el evento oficial de Generación D en Madrid
 tags: Genética Código Bioinformática Estadística Datos

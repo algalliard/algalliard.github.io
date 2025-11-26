@@ -7,4 +7,4 @@ tags: Genética Código Bioinformática Estadística Datos
 categories: MOMENTUM
 ---
 
-{% bluesky https://bsky.app/profile/bcbhubcsic.bsky.social/post/3lkca6ztoos2u %}
+

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conexión BCB
+title: 2º Workshop Conexión BCB 2025
 date: 2025-03-10 21:00:00
 description: Post sobre el meeting y workshop de la Conexión BCB en Madrid
 tags: Genética Código Bioinformática Estadística Datos
