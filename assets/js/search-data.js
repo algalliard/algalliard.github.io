@@ -81,9 +81,9 @@ ninja.data = [{
             window.location.href = "/blog/2025/GeneracionD/";
           
         },
-      },{id: "post-2º-workshop-conexión-bcb-2025",
+      },{id: "post-2º-asamblea-conexión-bcb-2025",
         
-          title: "2º Workshop Conexión BCB 2025",
+          title: "2º Asamblea Conexión BCB 2025",
         
         description: "Post sobre el meeting y workshop de la Conexión BCB en Madrid",
         section: "Posts",
